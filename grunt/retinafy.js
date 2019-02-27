@@ -6,7 +6,7 @@ module.exports = function(grunt) {
           suffix: ''
         },
         '100%': {
-          suffix: '@2x'
+          suffix: '%402x'
         }
       }
     },
